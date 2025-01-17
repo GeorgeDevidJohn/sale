@@ -1,6 +1,9 @@
 Sales Inventory Management Application
+
 Web Link : https://sale-ashen.vercel.app/
+
 🚀 Overview
+
 Welcome to the Sales Inventory Management Application, a powerful tool designed to streamline and elevate your sales and inventory management processes. Built with cutting-edge technologies, this application is the perfect solution for small businesses and entrepreneurs seeking real-time insights and secure inventory tracking.
 
 🌟 Features
@@ -26,19 +29,22 @@ Backend
 MongoDB: Flexible NoSQL database for secure data storage and management.
 JWT Authentication: Secure user login and session management.
 🧑‍💻 Installation & Setup
-Clone the Repository:
 
+Clone the Repository:
 git clone https://github.com/your-username/sales-inventory-management-app.git  
 cd sales-inventory-management-app  
 Install Dependencies:
+
 
 npm install  
 Set Up Environment Variables:
 Create a .env file in the root directory and define the following:
 
+
 MONGO_URI=your_mongodb_connection_string  
 JWT_SECRET=your_jwt_secret  
 Run the Development Server:
+
 
 npm run dev  
 The app will be live at http://localhost:3000.
@@ -48,12 +54,15 @@ The app will be live at http://localhost:3000.
 - pages/            # Next.js routing and page components  
 - styles/           # Tailwind CSS styles  
 - utils/            # Utility functions (e.g., JWT handling)  
-- api/              # Backend API endpoints  
+- api/              # Backend API endpoints
+- 
 📈 Future Enhancements
+
 Advanced Reporting: Detailed graphs and insights for better decision-making.
 Multi-User Support: Role-based access for teams.
 Offline Functionality: Ensure seamless operation without connectivity.
 🔗 Connect With Me
+
 Feel free to reach out for insights, collaborations, or feedback!
 
 📧 Email: your-email@example.com
