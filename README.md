@@ -1,4 +1,5 @@
-README: Sales Inventory Management Application
+Sales Inventory Management Application
+Web Link : https://sale-ashen.vercel.app/
 🚀 Overview
 Welcome to the Sales Inventory Management Application, a powerful tool designed to streamline and elevate your sales and inventory management processes. Built with cutting-edge technologies, this application is the perfect solution for small businesses and entrepreneurs seeking real-time insights and secure inventory tracking.
 
